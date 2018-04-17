@@ -1,0 +1,21 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start-storybook -p 7000 -c ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@storybook/addon-actions": "^3.4.1",
+    "@storybook/react": "^3.4.1"
+  },
+  "dependencies": {
+    "@lernaexample/usage": "^1.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}

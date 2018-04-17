@@ -1,0 +1,10 @@
+{
+  "name": "alpha",
+  "version": "1.0.0",
+  "description": "",
+  "entry": "./src/index.js",
+  "main": "dist/lib.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
